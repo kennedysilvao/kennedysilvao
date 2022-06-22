@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kennedy Silva 😎
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=header&text=Kennedy Silva de Oliveira&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <hr>
 
@@ -22,18 +22,10 @@
 - Selenium WebDriver
 - Jira, Alm
 - Insomnia e Postman
-
-
-
-<div align="center">
-  <a href="https://github.com/kennedysilvao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedysilvao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysilvao&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedysilvao&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kennedy Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysilvao&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedysilvao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedysilvao&layout=compact&langs_count=7&theme=tokyonight"/>
    
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=kennedysilvao&theme=gotham&hide_border=true&area=true)
    
@@ -52,3 +44,5 @@
 <div style="margin-bottom:50px">
       <a href="https://www.linkedin.com/in/kennedy-silva-de-oliveira-119154182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
