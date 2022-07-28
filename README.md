@@ -18,7 +18,8 @@
 - Gherkin
 - Cucumber
 - Banco de Dados SQL e PostgreSQL
-- Testes de API´s
+- Testes de API
+- Testes Desktop
 - Selenium WebDriver
 - Jira, Alm
 - Insomnia e Postman
